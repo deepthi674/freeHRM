@@ -38,7 +38,7 @@ public class LoginPage extends TestBase
 	{
 		userNameTB.sendKeys(name);
 		passwordTB.sendKeys(password);
-		loginBtn.click();
+		//loginBtn.click();
 	}
 	
 }
